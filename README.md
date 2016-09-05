@@ -9,7 +9,7 @@ So, I made it to solve my problem, and, I hope, someone else's as well.
 
 # Installation
 
-Download from Chrome Web Store
+[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/remove-netflix-subtitles/aoocobbmjfikbnjmjhkikjkehbkeaadk)
 
 # Developing
 
